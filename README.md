@@ -56,10 +56,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=exenthiast&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=exenthiast&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=exenthiast&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=exenthiast&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
